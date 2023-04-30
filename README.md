@@ -4,6 +4,7 @@ It was honestly a test plugin but if you want to use this as a base for any othe
 
 
 Use these links in order to start your spigot server and then you can download the .jar file and place that into the plugin folder of your server:
+
 https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_Spigot_server
 
 
